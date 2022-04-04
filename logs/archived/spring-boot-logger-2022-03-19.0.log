@@ -1,0 +1,5 @@
+2022-03-19 00:36:55,215 DEBUG org.springframework.security.web.FilterChainProxy [http-nio-8080-exec-4] Securing GET /login
+2022-03-19 00:36:55,276 DEBUG org.springframework.security.web.context.SecurityContextPersistenceFilter [http-nio-8080-exec-4] Set SecurityContextHolder to empty SecurityContext
+2022-03-19 00:36:55,284 DEBUG org.springframework.security.web.context.HttpSessionSecurityContextRepository$SaveToSessionResponseWrapper [http-nio-8080-exec-4] Did not store empty SecurityContext
+2022-03-19 00:36:55,284 DEBUG org.springframework.security.web.context.HttpSessionSecurityContextRepository$SaveToSessionResponseWrapper [http-nio-8080-exec-4] Did not store empty SecurityContext
+2022-03-19 00:36:55,284 DEBUG org.springframework.security.web.context.SecurityContextPersistenceFilter [http-nio-8080-exec-4] Cleared SecurityContextHolder to complete request
